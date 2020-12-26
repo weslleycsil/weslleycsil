@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  Hello my name is Weslley, I am <strong>Network Admin</strong> and <strong>Programmer</strong>.<br>I am studying Computer Science.
+  Hello, my name is Weslley, I am <strong>Network Admin</strong> and <strong>Programmer</strong>.<br>I am studying Computer Science.
 </p>
 
 <p align="left">
