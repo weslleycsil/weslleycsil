@@ -13,11 +13,14 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Zabbix-%23f01742.svg?&style=for-the-badge&logo=zabbix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?&style=for-the-badge&logo=openstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Zabbix-%23f01742.svg?&style=for-the-badge&logo=zabbix&logoColor=white"/>
 </p>
 
 <p align="left">
