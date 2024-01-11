@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  Hello, my name is Weslley, I am <strong>Network Admin</strong> and <strong>Programmer</strong>.<br>I am studying Computer Science.
+  Hello, I'm Wesley, I have a degree in <strong>Computer Science</strong><br>I work as an <strong>infrastructure analyst</strong> and <strong>network admin</strong>. In my spare time I am a programmer.<br>I have Cisco and VMware certifications such as <strong>CCNA</strong>, <strong>VCTA-DCV</strong> and finishing <strong>VCP-DCV</strong>.
 </p>
 
 <p align="left">
