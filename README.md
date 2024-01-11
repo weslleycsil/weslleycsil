@@ -28,8 +28,9 @@
 </p>
 
 <p align="left">
-  <a href="https://infra.expert" alt="Blog">
-  <img src="https://img.shields.io/static/v1?label=Blog&message=Infra%20Antenada&color=232634&style=for-the-badge&logo=ghost&link=https://infra.expert"/></a>
+  
+  <a href="https://infra.expert/#/portal/signup" alt="Blog">
+  <img src="https://img.shields.io/static/v1?label=Blog&message=Infra%20Expert&color=232634&style=for-the-badge&logo=ghost&link=https://infra.expert/#/portal/signup"/></a>
 
   <a href="https://instagram.com/infraantenada" alt="Instagram">
   <img src="https://img.shields.io/badge/@infraantenada-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/infraantenada"/></a>
